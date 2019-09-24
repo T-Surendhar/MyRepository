@@ -1,13 +1,13 @@
 # MyRepository
 
-##Sample Json request
+##Sample Json request##
 {
 	"sid":"2",
 	"sname":"Charles Shobraj",
 	"sroll":"084"
 }
 
-
+##Sample Json response##
 {"statusCode":200,
 "message":"Successfully fetched Student details",
 "data":[
